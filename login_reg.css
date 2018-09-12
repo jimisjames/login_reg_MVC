@@ -1,0 +1,17 @@
+body {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+.col {
+    padding: 40px;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
